@@ -79,12 +79,8 @@ python Main.py
 ## 📬 Contact
 
 Project Title: _Evaluating the Effectiveness of Intervention Strategies in Controlling Dengue Fever Outbreaks with ASEI-SVIR Model_
-
 Ibnu Ameerul Bin Abdul Halim
-
 Bachelor of Computer Science (Computational Science) with Honors
-
 Universiti Malaysia Sarawak
-
 📧 ameerulibnu69@gmail.com
 
