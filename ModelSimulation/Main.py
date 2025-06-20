@@ -110,7 +110,7 @@ time = np.linspace(t0, T, N + 1)
 u1_zero, u2_zero, u3_zero = 0, 0, 0
 y_zero_control = RK4_forward(np.copy(y), u1_zero, u2_zero, u3_zero)
 
-# Extract Ih and Iv for no control scenario 
+# Extract Ih and Iv for without control scenario 
 Av_zero_control = y_zero_control[:, 0] 
 Sv_zero_control = y_zero_control[:, 1]    
 Ev_zero_control = y_zero_control[:, 2]  
